@@ -1,0 +1,8 @@
+{
+  "name": "csinjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aidanbane/csinjs.git",
+  "author": "Aidan Bane <aidanfbane@gmail.com>",
+  "license": "MIT"
+}
