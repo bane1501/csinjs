@@ -1,9 +1,3 @@
-<!-- //<!-- # csinjs -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
-<!-- //Algorithms and data structures in javascript --> -->
+# csinjs
+
+Algorithms and data structures in javascript
